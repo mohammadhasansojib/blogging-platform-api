@@ -1,6 +1,6 @@
 # Blogging Platform API
 
-This is a simple crud API build using Typescript, Node JS, Express JS and MongoDB Database. Here does not have any auth feature.
+This is a simple crud API built using Typescript, Node JS, Express JS and MongoDB Database. Here does not have any auth feature.
 
 ## Contents
 
@@ -95,7 +95,7 @@ blogging-platform-api/
 
 ## Tech Stack
 
-- Typescript
-- Node JS
-- Express JS
-- MongoDB
+- Language: Typescript
+- Environement: Node JS
+- Framework: Express JS
+- Database: MongoDB
